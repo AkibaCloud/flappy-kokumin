@@ -1,3 +1,2 @@
-ラ
-# フッピー国民
-[play](https://akiba.cloud/flappy/)
+# フラッピー国民
+[here](https://akiba.cloud/flappy/)
