@@ -1,2 +1,2 @@
 # フロッピー国民
-飛ばすぜ
+[play](https://akiba.cloud/floppy/)
