@@ -1,2 +1,1 @@
-# フラッピー国民
-[here](https://akiba.cloud/flappy/)
+[フロッピー国民](https://akiba.cloud/floppy/)
